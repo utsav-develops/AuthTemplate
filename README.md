@@ -1,5 +1,11 @@
 # react-auth-boilerplate
 
+
+
+https://github.com/user-attachments/assets/8af63aaa-ed19-43f3-a2eb-bbfdf5d66118
+
+
+
 A minimal, backend-agnostic authentication boilerplate for React. No auth provider is baked in — wire it up to whatever backend you use.
 
 ## Features
@@ -38,13 +44,6 @@ function Dashboard() {
 }
 ```
 
-````
-
 ## License
 
 MIT
-
-```
-
-```
-````
