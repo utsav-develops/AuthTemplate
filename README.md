@@ -19,8 +19,8 @@ A minimal, backend-agnostic authentication boilerplate for React. No auth provid
 
 Clone the repo and install dependencies:
 
-    git clone https://github.com/utsav-develops/react-auth-boilerplate.git
-    cd react-auth-boilerplate
+    git clone git@github.com:utsav-develops/AuthTemplate.git
+    cd AuthTemplate
     npm install
 
 Then open `src/apis/authApis.ts` and implement the five functions for your backend. That's the only file you need to touch.
