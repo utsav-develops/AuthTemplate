@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/8af63aaa-ed19-43f3-a2eb-bbfdf5d66118
 
 
 
-A minimal, backend-agnostic authentication boilerplate for React. No auth provider is baked in — wire it up to whatever backend you use.
+A minimal, backend-agnostic authentication boilerplate for React. No auth provider is baked in, wire it up to whatever backend you use.
 
 ## Features
 
@@ -27,7 +27,7 @@ Then open `src/apis/authApis.ts` and implement the five functions for your backe
 
 ## Supported backends
 
-Anything. Supabase, Firebase, Auth0, a custom REST API — as long as you implement the functions in `authApis.ts`, it'll work.
+Anything. Supabase, Firebase, Auth0, a custom REST API, as long as you implement the functions in `authApis.ts`, it'll work.
 
 ## Usage
 
